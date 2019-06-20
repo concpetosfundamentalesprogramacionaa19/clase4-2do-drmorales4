@@ -1,0 +1,533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"min"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"v",
+				"valorPi"
+			],
+			[
+				"el",
+				"elsigno"
+			],
+			[
+				"de",
+				"denominador"
+			],
+			[
+				"S",
+				"seguir"
+			],
+			[
+				"pro",
+				"promedio"
+			],
+			[
+				"ni",
+				"numerosEstudiantes"
+			],
+			[
+				"no",
+				"nota2"
+			],
+			[
+				"nombre",
+				"nombres"
+			],
+			[
+				"con",
+				"contador"
+			],
+			[
+				"In",
+				"Ingrese"
+			],
+			[
+				"nota",
+				"nota2"
+			],
+			[
+				"se",
+				"seguro_2"
+			],
+			[
+				"cicl",
+				"ciclo_presencial"
+			],
+			[
+				"ci",
+				"ciclo_presencial"
+			],
+			[
+				"cos",
+				"costo"
+			],
+			[
+				"co",
+				"costo"
+			],
+			[
+				"ciclo",
+				"ciclo_presencial"
+			],
+			[
+				"cost",
+				"costo"
+			],
+			[
+				"ciclo_",
+				"ciclo_distancia"
+			],
+			[
+				"n",
+				"numero_ciclos"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"men",
+				"mensaje2"
+			],
+			[
+				"su",
+				"sueldoPagar"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"val",
+				"valor2"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"paradima",
+				"paradigma"
+			],
+			[
+				"s",
+				"strong"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\"\"\"\n    @reroes\n    Manejo de estructuras\n\"\"\"\n\nlista = [\"Loja\", \"Cuenca\"]\nlista2 = [\"Loja\", \"Azuay\"]\nlista.append(\"Zamora\")\nlista2.append(\"Zamora Chinchipe\")\nprint(\"Imprimir lista \")\nfor l in lista:\n    print(l)\n\nprint(\"Imprimir lista2 \")\nfor l in lista2:\n    print(l)\n\n\n",
+			"file": "principal3.py",
+			"file_size": 254,
+			"file_write_time": 132055195942961699,
+			"settings":
+			{
+				"buffer_size": 271,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "principal2.py",
+			"settings":
+			{
+				"buffer_size": 179,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "principal1.py",
+			"settings":
+			{
+				"buffer_size": 322,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "principal5.py",
+			"settings":
+			{
+				"buffer_size": 322,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "principal4.py",
+			"settings":
+			{
+				"buffer_size": 134,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase4-2do-drmorales4/ejercicios-python1/principal.py",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase4-2do-drmorales4/ejercicios-python/ejemplo2.py",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/datos/aeropuertos-csv.csv",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/2do-grupal2-grupal007/Grupal02/data/promedio.txt",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/estudiantes/DianaSerrano-1805419175.txt",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/estudiantes/RobertoNarvaez-1382232929.txt",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/estudiantes/NoheliaLudena1099967779.txt",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/estudiantes/JuanYanza1445687761.txt",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/estudiantes/DavidMorales-1089112903.txt",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/estudiantes/Juan Yanza-2121507193.txt",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/datos/nacimientos2014_001.csv",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/estudiantes/DavidMorales-1595213145.txt",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/datos/salidaArchivo1.txt",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/estudiantes/RicardoFreire104273065.txt",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/practica2do-170619-drmorales4/JavaApplication50/data/registros.json",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/clase3-2do-drmorales4/ManejoArchivos/estudiantes/MajoMorocho1896401827.txt",
+		"/D/MORALITOS/Desktop/jugyftr.txt",
+		"/D/MORALITOS/Desktop/cuenta majito.txt",
+		"/D/MORALITOS/Desktop/Documentos Segundo Ciclo/Conceptos fundamentales de programacion/impress.js-David_Morales/index.html",
+		"/C/xampp/htdocs/PagWebCalculo/Index.html",
+		"/C/xampp/htdocs/ProyectoCalculo/Index.html",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/laboratorio3-1erbim-drmorales4/Laboratorio3",
+		"/D/MORALITOS/Desktop/afdsf.py",
+		"/D/MORALITOS/Desktop/3",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/cf-parcial-bimestre-1/problema1/solucion_python/CadenasIn.py",
+		"/D/MORALITOS/Documents/EjemplosPython/problema_2.py",
+		"/D/MORALITOS/Documents/EjemplosPython/problema_1.py",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/practica220419-drmorales4/demo3.py",
+		"/D/MORALITOS/Documents/EjemplosPython/problema_1",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/practica220419-drmorales4/demo2.py",
+		"/D/MORALITOS/Documents/trabajos-conceptosFundamentalesDeProgramacion/practica220419-drmorales4/demo.py",
+		"/D/MORALITOS/Documents/EjemplosPython/demo.py",
+		"/D/MORALITOS/Documents/EjemplosPython/hola.py",
+		"/D/MORALITOS/Documents/EjemplosPython/presentacion.py",
+		"/D/MORALITOS/Documents/EjemplosPython/presentacion2.py",
+		"/D/MORALITOS/Documents/EjemplosPython/Presentacion.py",
+		"/D/MORALITOS/Documents/Sublime Text/Validar si una matriz es simétrica_1",
+		"/D/MORALITOS/Documents/Sublime Text/Ordenar una matriz",
+		"/D/MORALITOS/Documents/Sublime Text/Contabilizar  %  pares  y  %  primos",
+		"/D/MORALITOS/Desktop/DAVID/DOCUMENTOS U/Documentos Primer Ciclo/Algoritmos y Diseño/Programa_final_PRIMER_CICLO.py",
+		"/D/MORALITOS/Downloads/impress.js-master/index.html",
+		"/D/innoVacliente/Downloads/Programa_final_PRIMER_CICLO.py",
+		"/D/innoVacliente/Documents/Sublime Text/Numero minimo del arreglo",
+		"/D/innoVacliente/Documents/Sublime Text/Validar si una matriz es simétrica",
+		"/D/innoVacliente/Documents/Sublime Text/Invertir arreglo 1"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dfsdhjkl;lkuytrewqsdfgrthyujiop;'[]oi",
+			"dfsdhjkl;lkuytrewqsdfgrthyujiop;'[]",
+			"principal1"
+		],
+		"highlight": false,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "principal3.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "principal2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "principal1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "principal5.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "principal4.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "principal5.py",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

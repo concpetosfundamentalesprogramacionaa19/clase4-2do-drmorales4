@@ -45,15 +45,15 @@ except TypeError as ex:
     print(ex)
     print(type(ex))
 except NumeroNegativosError as ex:
-    print("Algo paso en el programa (NumeroNegativosError)\n")
+    print("\nAlgo paso en el programa (NumeroNegativosError)")
     print(ex)
     print(type(ex))
 except TamanioDatosPersonalesError as ex:
-    print("Algo paso en el programa (TamanioDatosPersonalesError)\n")
+    print("\nAlgo paso en el programa (TamanioDatosPersonalesError)")
     print(ex)
     print(type(ex))
 except Exception as ex:
-    print("Algo paso en el programa (Exeption)\n")
+    print("\nAlgo paso en el programa (Exeption)")
     print(ex)
     print(type(ex))
     
